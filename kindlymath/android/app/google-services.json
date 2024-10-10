@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "599418105217",
+    "firebase_url": "https://kindly-math-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kindly-math",
+    "storage_bucket": "kindly-math.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599418105217:android:95cfbb28e36a56f9380c80",
+        "android_client_info": {
+          "package_name": "com.example.kindlymath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AZsDoh9PmMT_v7Gt4IM2iWfZWQES1vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
